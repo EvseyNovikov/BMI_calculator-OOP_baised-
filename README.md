@@ -8,8 +8,8 @@
 
 ## Пример GUI программы:
 
-![1 img](images/1.jpg?raw=true "Title")
+![1 img](images/1.png?raw=true "Title")
 
-![2 img](images/2.jpg?raw=true "Title")
+![2 img](images/2.png?raw=true "Title")
 
-![3 img](images/3.jpg?raw=true "Title")
+![3 img](images/3.png?raw=true "Title")
